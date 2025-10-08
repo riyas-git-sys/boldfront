@@ -58,6 +58,23 @@ frontend/
 └── .env
 ```
 
+## Screenshots
+
+### Get data from server
+<img width="1918" height="957" alt="Image" src="https://github.com/user-attachments/assets/18d3d4d0-5bb9-4e86-a834-2ea5e3c6e1b8" />
+
+### Adding new long url to short
+<img width="1919" height="952" alt="Image" src="https://github.com/user-attachments/assets/bddeb483-f7a7-4c4e-b7e2-9eebb160acb0" />
+
+### Added Url successful result
+<img width="1918" height="955" alt="Image" src="https://github.com/user-attachments/assets/c8b6d840-88e6-452a-b93e-3865740096a8" />
+
+### Post data from thunder client vscode
+<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/9cf607a3-6427-43ed-a619-3e24edab5c7c" />
+
+### Ai usage to complete this project
+<img width="1919" height="990" alt="Image" src="https://github.com/user-attachments/assets/5e874ca2-00da-4e05-a8c3-6c0295359860" />
+
 ## 🎯 Components Documentation
 
 ### 🔧 UrlShortener Component
